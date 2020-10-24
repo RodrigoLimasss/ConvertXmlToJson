@@ -23,11 +23,10 @@ namespace ConvertXmlToJson
 
         public T ConvertXmlTo<T>(string value)
         {
-            var jsonString = ConvertXmlToJson(value);
+            if (string.IsNullOrWhiteSpace(value)) return default;
 
-            return string.IsNullOrWhiteSpace(jsonString)
-                ? default
-                : JsonConvert.DeserializeObject<T>(jsonString);
+            var jsonString = ConvertXmlToJson(value);
+            return JsonConvert.DeserializeObject<T>(jsonString);
         }
     }
 }
