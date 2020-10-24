@@ -1,0 +1,8 @@
+C:\git\my-projects\ConvertXmlToJson\ConvertXmlToJson\bin\Debug\netcoreapp3.1\ConvertXmlToJson.deps.json
+C:\git\my-projects\ConvertXmlToJson\ConvertXmlToJson\bin\Debug\netcoreapp3.1\ConvertXmlToJson.dll
+C:\git\my-projects\ConvertXmlToJson\ConvertXmlToJson\bin\Debug\netcoreapp3.1\ConvertXmlToJson.pdb
+C:\git\my-projects\ConvertXmlToJson\ConvertXmlToJson\obj\Debug\netcoreapp3.1\ConvertXmlToJson.AssemblyInfoInputs.cache
+C:\git\my-projects\ConvertXmlToJson\ConvertXmlToJson\obj\Debug\netcoreapp3.1\ConvertXmlToJson.AssemblyInfo.cs
+C:\git\my-projects\ConvertXmlToJson\ConvertXmlToJson\obj\Debug\netcoreapp3.1\ConvertXmlToJson.dll
+C:\git\my-projects\ConvertXmlToJson\ConvertXmlToJson\obj\Debug\netcoreapp3.1\ConvertXmlToJson.pdb
+C:\git\my-projects\ConvertXmlToJson\ConvertXmlToJson\obj\Debug\netcoreapp3.1\ConvertXmlToJson.csproj.CoreCompileInputs.cache
